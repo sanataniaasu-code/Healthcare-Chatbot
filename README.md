@@ -15,6 +15,7 @@ A simple ML-powered healthcare chatbot that: intent classification using TF-IDF 
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+## Training
 3. Train the intent classifier:
 python train_intent.py
 4. Run the app:
